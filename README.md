@@ -16,8 +16,15 @@
 <td>FPS↑</td>
 </tr>
 <tr>
-<td>row 2, cell 1</td>
-<td>row 2, cell 2</td>
+<td>DAVIS 2016 val</td>
+<td>86.5</td>
+<td>85.7</td>
+<td>97.1</td>
+<td>5.1</td>
+<td>87.3</td>
+<td>96.1</td>
+<td>4.9</td>
+<td>21.3</td>
 </tr>
 </table>
 

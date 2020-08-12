@@ -82,7 +82,7 @@
 <video width="854" height="480" controls="controls">
   <source src="%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4" type="video/mp4" />
   <object data="%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4" width="854" height="480">
-    <embed src="movie.swf" width="854" height="480" />
+    <embed src="%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4" width="854" height="480" />
   </object>
 </video>
 

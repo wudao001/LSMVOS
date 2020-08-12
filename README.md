@@ -78,5 +78,10 @@
 [DAVIS 分割结果](https://share.weiyun.com/nSPPQAV7)
 
 # 可视化结果
-
-[DAVIS 2016 val](https://github.com/wudao001/LSMVOS/tree/master/%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4)
+<video width="320" height="240" controls="controls">
+  <source src="%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4" type="video/mp4" />
+  <object data="movie.mp4" width="320" height="240">
+    <embed src="movie.swf" width="320" height="240" />
+  </object>
+</video>
+(https://github.com/wudao001/LSMVOS/tree/master/%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4)

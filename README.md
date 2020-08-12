@@ -79,4 +79,4 @@
 
 # 可视化结果
 
-[DAVIS 2016 val](<iframe src="//player.bilibili.com/player.html?aid=884235823&bvid=BV1jK4y1Y7yd&cid=223463073&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>)
+<iframe src="//player.bilibili.com/player.html?aid=884235823&bvid=BV1jK4y1Y7yd&cid=223463073&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

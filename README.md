@@ -76,3 +76,10 @@
 
 # 下载
 [DAVIS 分割结果](https://share.weiyun.com/nSPPQAV7)
+
+# 可视化结果
+ <video width="320" height="240" controls autoplay>
+
+        <source src="视频/DAVIS 2016 val.mp4" type="video/mp4">
+
+    </video>

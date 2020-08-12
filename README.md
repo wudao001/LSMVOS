@@ -81,4 +81,7 @@
 
  <video width="320" height="240" controls="controls">
         <source src="视频/DAVIS 2016 val.mp4" type="video/mp4">
+        <object data="视频/DAVIS 2016 val.mp4" width="320" height="240">
+             <embed src="视频/DAVIS 2016 val.mp4" width="320" height="240" />
+        </object>
  </video>

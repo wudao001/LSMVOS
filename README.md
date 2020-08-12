@@ -79,13 +79,4 @@
 
 # 可视化结果
 
-<video width="854" height="480" controls="controls">
-  <source src="%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4" type="video/mp4" />
-  <object data="%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4" width="854" height="480">
-    <embed src="%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4" width="854" height="480" />
-  </object>
-</video>
-
-<a href="%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4">Play a video file</a>
-
-(https://github.com/wudao001/LSMVOS/tree/master/%E8%A7%86%E9%A2%91/DAVIS%202016%20val.mp4)
+[DAVIS 2016 val](<iframe src="//player.bilibili.com/player.html?aid=884235823&bvid=BV1jK4y1Y7yd&cid=223463073&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>)

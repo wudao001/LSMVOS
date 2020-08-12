@@ -79,4 +79,4 @@
 
 # 可视化结果
 
-[DAVIS 2016 val](视频/DAVIS 2016 val.mp4)
+[DAVIS 2016 val](https://github.com/wudao001/LSMVOS/tree/master/%E8%A7%86%E9%A2%91/DAVIS 2016 val.mp4)

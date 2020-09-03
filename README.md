@@ -1,5 +1,6 @@
-# 基于长-短时相似性匹配的视频目标分割网络
-## 网络结构
+# LSMVOS: Long-Short-Term Similarity Matching for Video Object
+## Zhang Xuerui, Yuan Xia
+## Overview
 <img src="图片/网络结构图.png" width="400px"/>
 
 ## 实验结果

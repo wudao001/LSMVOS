@@ -95,8 +95,8 @@ The short-term matching module in LSMVOS uses the cross-correlation operation in
 
 ## - command
 <code>
-python evaluation.py --deviceID 0 1 --Using_Correlation False --scale 10 --batch_size 1 --year '2016' --mode 'val' --path 'LSMVOS_DAVIS_2016.pth' --root '/home/rv/Desktop/DAVIS'</br>
-</code>
+"python evaluation.py --deviceID 0 1 --Using_Correlation False --scale 10 --batch_size 1 --year '2016' --mode 'val' --path 'LSMVOS_DAVIS_2016.pth' --root '/home/rv/Desktop/DAVIS'"
+ </code> </br>
 deviceID: GPUid，default is 0</br>
 Using_Correlation: Whether Correlation is installed</br>
 scale: Image grouping pixels， default 10 pixels in a column is 1 group</br>

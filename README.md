@@ -85,3 +85,10 @@
 [DAVIS 2017 val](https://www.bilibili.com/video/BV1MC4y1t7R2/)
 <br/>
 [DAVIS 2017 test](https://www.bilibili.com/video/BV1Bh411d72y/)
+
+## - Requirements
+python ==3.6
+torch ==1.3.1
+torchvision == 0.4.2
+
+The short-term matching module in LSMVOS uses the cross-correlation operation in Flownet2, and an implementation of pytorch needs to be [installed]（https://github.com/NVIDIA/flownet2-pytorch/tree/master/networks/correlation_package）

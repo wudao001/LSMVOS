@@ -91,15 +91,15 @@ python ==3.6
 torch ==1.3.1
 torchvision == 0.4.2
 
-The short-term matching module in LSMVOS uses the cross-correlation operation in Flownet2, and an implementation of pytorch needs to be [installed](https://github.com/NVIDIA/flownet2-pytorch/tree/master/networks/correlation_package),If it is training, you must install the Correlation module. If you are testing, you can use the local implementation. The local implementation will divide the picture into several groups, which can be flexibly adjusted according to the size of the GPU memory.
+The short-term matching module in LSMVOS uses the cross-correlation operation in Flownet2, and an implementation of pytorch needs to be [installed](https://github.com/NVIDIA/flownet2-pytorch/tree/master/networks/correlation_package). If it is training, you must install the Correlation module. If you are testing, you can use the local implementation. The local implementation will divide the picture into several groups, which can be flexibly adjusted according to the size of the GPU memory.
 
 ## - command
-python evaluation.py --deviceID 0 1 --Using_Correlation False --scale 10 --batch_size 1 --year '2016' --mode 'val' --path 'LSMVOS_DAVIS_2016.pth' --root '/home/rv/Desktop/DAVIS'
-deviceID: GPUid，default is 0
-Using_Correlation: Whether Correlation is installed
-scale: Image grouping pixels， default 10 pixels in a column is 1 group
-batch_size: Batch size，default is 1
-year: Davis year，default is '2016'
-mode: Davis phase，default is 'val'
-path: 'Model path'
-root: 'Dateset root'
+python evaluation.py --deviceID 0 1 --Using_Correlation False --scale 10 --batch_size 1 --year '2016' --mode 'val' --path 'LSMVOS_DAVIS_2016.pth' --root '/home/rv/Desktop/DAVIS'</br>
+deviceID: GPUid，default is 0</br>
+Using_Correlation: Whether Correlation is installed</br>
+scale: Image grouping pixels， default 10 pixels in a column is 1 group</br>
+batch_size: Batch size，default is 1</br>
+year: Davis year，default is '2016'</br>
+mode: Davis phase，default is 'val'</br>
+path: 'Model path'</br>
+root: 'Dateset root'</br>

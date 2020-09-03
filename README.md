@@ -4,10 +4,10 @@
 ## Overview
 <img src="图片/网络结构图.png" width="400px"/>
 
-## 实验结果
+## results
 <table border="1">
 <tr>
-<td>数据集</td>
+<td>Dataset</td>
 <td>J&F↑</td>
 <td>J mean↑</td>
 <td>J recall↑</td>
@@ -32,7 +32,7 @@
 
 <table border="1">
 <tr>
-<td>数据集</td>
+<td>Dataset</td>
 <td>J&F↑</td>
 <td>J mean↑</td>
 <td>J recall↑</td>
@@ -55,7 +55,7 @@
 
 <table border="1">
 <tr>
-<td>数据集</td>
+<td>Dataset</td>
 <td>J&F↑</td>
 <td>J mean↑</td>
 <td>J recall↑</td>
@@ -76,10 +76,10 @@
 </tr>
 </table>
 
-## 下载
-[DAVIS 分割结果](https://share.weiyun.com/nSPPQAV7)
+## Download
+[DAVIS](https://share.weiyun.com/nSPPQAV7)
 
-## 可视化结果
+## Visual
 [DAVIS 2016 val](https://www.bilibili.com/video/BV1jK4y1Y7yd/)
 <br/>
 [DAVIS 2017 val](https://www.bilibili.com/video/BV1MC4y1t7R2/)

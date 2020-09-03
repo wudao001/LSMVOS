@@ -2,7 +2,7 @@
 ## Zhang Xuerui, Yuan Xia
 [arxiv](https://arxiv.org/abs/2009.00771)
 ## Overview
-<img src="图片/网络结构图.png" width="400px"/>
+<img src="image/overview.png" width="400px"/>
 
 ## results
 <table border="1">

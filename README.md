@@ -77,7 +77,9 @@
 </table>
 
 ## Download
+[Dateset](https://davischallenge.org/index.html)
 [DAVIS](https://share.weiyun.com/nSPPQAV7)
+[Pretrained models](https://share.weiyun.com/VFyn9frh)
 
 ## Visual
 [DAVIS 2016 val](https://www.bilibili.com/video/BV1jK4y1Y7yd/)
@@ -87,9 +89,9 @@
 [DAVIS 2017 test](https://www.bilibili.com/video/BV1Bh411d72y/)
 
 ## Requirements
-python ==3.6
-torch ==1.3.1
-torchvision == 0.4.2
+python ==3.6</br>
+torch ==1.3.1</br>
+torchvision == 0.4.2</br>
 
 The short-term matching module in LSMVOS uses the cross-correlation operation in Flownet2, and an implementation of pytorch needs to be [installed](https://github.com/NVIDIA/flownet2-pytorch/tree/master/networks/correlation_package). If it is training, you must install the Correlation module. If you are testing, you can use the local implementation. The local implementation will divide the picture into several groups, which can be flexibly adjusted according to the size of the GPU memory.
 

@@ -13,14 +13,14 @@ import argparse
 torch.backends.cudnn.benchmark = True
 save_img = True
 parser = argparse.ArgumentParser(description='LSMVOS')
-parser.add_argument('--deviceID', nargs='+', type=int, default=[0], help='设备ID')
-parser.add_argument('--Using_Correlation', default=False, help='是否安装Correlation')
-parser.add_argument('--scale', type=int, default=10, help='图片分组像素')
-parser.add_argument('--batch_size', type=int, default=1, help='批量大小')
-parser.add_argument('--year',  default='2016', help='Davis年份')
-parser.add_argument('--mode',  default='val', help='数据集名称')
-parser.add_argument('--path', help='模型地址')
-parser.add_argument('--root', help='数据集地址')
+parser.add_argument('--deviceID', nargs='+', type=int, default=[0], help='GPU ID')
+parser.add_argument('--Using_Correlation', default=False, help='Whether Correlation is installed')
+parser.add_argument('--scale', type=int, default=10, help='Image grouping pixels')
+parser.add_argument('--batch_size', type=int, default=1, help='Batch size')
+parser.add_argument('--year',  default='2016', help='Davis year')
+parser.add_argument('--mode',  default='val', help='Phase')
+parser.add_argument('--path', help='Model path')
+parser.add_argument('--root', help='Dateset path')
 def mask(img):
 	img = (img!=0).to(torch.float32)
 	return img

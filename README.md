@@ -112,5 +112,5 @@ root: 'Dateset root'</br>
 If you find our paper and repo useful, please cite our paper. Thanks!
 <pre>
 LSMVOS: Long-Short-Term Similarity Matching for Video Object
-Zhang Xuerui, Yuan Xi
+Zhang Xuerui, Yuan Xia
 </pre>

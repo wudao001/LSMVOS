@@ -107,3 +107,10 @@ year: Davis year，default is '2016'</br>
 mode: Davis phase，default is 'val'</br>
 path: 'Model path'</br>
 root: 'Dateset root'</br>
+
+## Reference
+If you find our paper and repo useful, please cite our paper. Thanks!
+<pre>
+LSMVOS: Long-Short-Term Similarity Matching for Video Object
+Zhang Xuerui, Yuan Xi
+</pre>
